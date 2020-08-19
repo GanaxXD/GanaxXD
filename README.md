@@ -14,7 +14,7 @@ Me chamo Pedro, e atualmente estou entrando de cabeça no universo do desenvolvi
 - 👯 Eu pretendo colaborar ao máximo com meus conhecimentos para desenvolver aplicações leves e eficientes
 - 🤔 Atualmente estou buscando oportunidades de programação, especialmente programação *mobile*
 - 💬 Na área de tecnologia, tenho conhecimento em contagem de pontos de função, git e github
-- 📫 Você pode entrar em contato comigo através do meus e-mail: pedro.mattis.df@gmail.com
+- 📫 Você pode entrar em contato comigo através do meu e-mail: pedro.mattis.df@gmail.com
 - 😄 Linguagens que conheço: Java, SQL, Dart, HTML, CSS, estes dois últimos ainda engatinhando, aprendendo o básico da programação
 - ⚡ Amo aprender coisas novas mas acima de tudo, eu amo café.
 
