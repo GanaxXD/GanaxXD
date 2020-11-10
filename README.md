@@ -4,7 +4,7 @@
 **GanaxXD/GanaxXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
   
-Me chamo Pedro, e atualmente estou entrando de cabeça no universo do desenvolvimento, principalmente o universo da programação *mobile*. Estou me graduando em sistemas de Informação pelo IFMA, Instituto Federal de Educação, Ciência e Tecnologia do Maranhão, e já tive algumas experiências com documentação de sistemas, suporte ao cliente e análise de sistemas para implantação de alguns sistemas comprados ou desenvolvidos pelas empresas que tive oportunidade de trabalhar. A pouco tempo fui apresentado a programação e isso abriu minha mente para essa vertente da tecnologia.  
+Me chamo Pedro, e atualmente estou entrando de cabeça no universo do desenvolvimento, principalmente o universo da programação *mobile*. Graduado em Sistemas de Informação pelo IFMA, Instituto Federal de Educação, Ciência e Tecnologia do Maranhão, já tive algumas experiências com documentação de sistemas, suporte ao cliente e análise de sistemas para implantação de alguns sistemas comprados ou desenvolvidos pelas empresas que tive oportunidade de trabalhar. A pouco tempo fui apresentado a programação e isso abriu minha mente para essa vertente da tecnologia.  
   
   
 ###### Algumas coisas sobre mim
