@@ -1,4 +1,4 @@
-### Oi, Eu sou Pedro 👋
+### Oi 👋
 
 <!--
 **GanaxXD/GanaxXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Me chamo Pedro, e atualmente estou entrando de cabeça no universo do desenvolvi
 - 🤔 Atualmente estou buscando oportunidades de programação, especialmente programação *mobile*
 - 💬 Na área de tecnologia, tenho conhecimento em contagem de pontos de função, git e github
 - 📫 Você pode entrar em contato comigo através do meu e-mail: pedro.mattis.df@gmail.com
-- 😄 Linguagens que conheço: Java, SQL, Dart, HTML, CSS, estes dois últimos ainda engatinhando, aprendendo o básico da programação
+- 😄 Linguagens, Tecnologias e Frameworks que conheço: C, Java, Spring Boot, JavaScript, ES6, MySql, Oracle, FireBase, SQL, Dart, Flutter, HTML, CSS, estes dois últimos ainda engatinhando, aprendendo o básico da programação
 - ⚡ Amo aprender coisas novas mas acima de tudo, eu amo café.
 
