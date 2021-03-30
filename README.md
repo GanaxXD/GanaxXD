@@ -1,7 +1,7 @@
 ### Oi 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-dantas-765563169/)](https://www.linkedin.com/in/pedro-dantas-765563169/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.mattis.df@gmail.com)](mailto:pedro.mattis.df@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.mattis.df@gmail.com)](mailto: pedro.mattis.df@gmail.com)
 
 
 
@@ -23,7 +23,7 @@ Atualmente estou buscando oportunidades de programação, especialmente programa
 
 <details>
   <br/>
-  <summary>Languages Most Frequently Used</summary>
+  <summary>Linguagens Mais Usadas</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanaxXD&layout=compact&bg_color=444444&text_color=dddddd">
 </details>
 <br/>
