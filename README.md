@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-dantas-765563169/)](https://www.linkedin.com/in/pedro-dantas-765563169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.mattis.df@gmail.com)](mailto:pedro.mattis.df@gmail.com)
 
-
+<!--
+    Tabela unicode usada no java para inserir caracteres especiais: http://evaristoandjava.blogspot.com/2011/10/tabela-unicode.html
+-->
 
 <!--
 **GanaxXD/GanaxXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
