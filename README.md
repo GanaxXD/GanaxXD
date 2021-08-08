@@ -17,9 +17,9 @@ Sou graduado em Sistemas de Informação pelo IFMA, Instituto Federal de Educaç
 * PHP, AngularJs, Postgres e CodeIgniter;
 * Java e PL/SQL.
 
-Além destes, algumas outras linguagen, *frameworks* e tecnologias são conhecidas por mim, como por exemplo **C, JavaScript, ES6, React, Delphi, HTML, CSS, Spring Boot, Bootstrap, SQL e Oracle.**  
+Além destes, algumas outras linguagen, *frameworks* e tecnologias são conhecidas por mim, como por exemplo **C, JavaScript, ES6, React, Delphi, HTML, CSS, Spring Boot, Bootstrap, MySQL e Oracle.**  
   
-Atualmente estou buscando oportunidades de programação, especialmente programação *mobile*.
+Atualmente estou buscando oportunidades de programação, especialmente programação *mobile* com *Dart/Flutter*.
 
 ⚡ Amo aprender coisas novas mas acima de tudo, eu amo café.
 
