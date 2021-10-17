@@ -18,7 +18,7 @@ Sou graduado em Sistemas de Informação pelo IFMA, Instituto Federal de Educaç
 * Java e PL/SQL.
 * Java, Spring Boot, MySql, Junit 5, Swagger.
 
-Além destes, algumas outras linguagen, *frameworks* e tecnologias são conhecidas por mim, como por exemplo **C, JavaScript, ES6, React, HTML, CSS, Laravel, Spring Boot, JUnit 5, Bootstrap, MySQL e Oracle.**  
+Além destes, algumas outras linguagen, *frameworks* e tecnologias são conhecidas por mim, como por exemplo **C, JavaScript, ES6, React, HTML, CSS, Laravel, Angular, Spring Boot, JUnit 5, Bootstrap, MySQL e Oracle.**  
   
 Atualmente estou buscando oportunidades de programação, especialmente programação *mobile* com *Dart/Flutter*.
 
